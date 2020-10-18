@@ -1,8 +1,8 @@
-# peijin's PagesBlog
+# yueshendefeidao's PagesBlog
 
 > A Knowledge Repository.
 
-[Get Started](#javaLearning)
+[Get Started](#javalearning)
 
 ![](_media/space.jpeg)
 
